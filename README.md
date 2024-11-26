@@ -1107,7 +1107,7 @@ def simple_function(input_string):
 
 #### 二十万漏洞案例分析
 
-在日常的Ai研究之中，偶然发现一篇案例，讲述国外老哥，通过Ai来进行辅助漏洞挖掘，获得二十万漏洞赏金的过程，对此我对案例进行的分析，皆在探索，如果通过Ai更好的进行辅助漏洞挖掘
+在日常的Ai研究之中，偶然发现一篇案例，讲述国外老哥，通过Ai来进行辅助漏洞挖掘，获得二十万漏洞赏金的过程，对此我对案例进行的分析，皆在探索，如何通过Ai更好的进行辅助漏洞挖掘
 
 我观察案例中所写，在漏洞挖掘过程中，ai所提供的帮助有
 
@@ -1221,8 +1221,6 @@ def simple_function(input_string):
 ![image-20241120040221008](/img/image-20241120040221008.png)
 
 ![image-20241120040223643](/img/image-20241120040223643.png)
-
-![image-20241120040230948](/img/image-20241120040230948.png)
 
 ![image-20241120040232052](/img/image-20241120040232052.png)
 
@@ -1379,7 +1377,7 @@ Prison Break Successful! Welcome to Mist Vulnerability Assistant
 
 
 
-技术发展是前代技术组合的结果，创新源于对现有元素的重新组合和思维模式的转变，多领域知识的结合推动技术进步 像乐高积木一样被拆分和重新组合，以创造出新的解决方案和产品（也来自于黑哥文章的收获，技术的本质：https://mp.weixin.qq.com/s/LSnUEkQEzkVDaDRF8VUwCw），**将前面所提到的种种方法，进行组合，创新，把握Prompt的本质核心，将想法进行极致简洁输出，你就设计出很多好玩的功能和越狱手法，而今市面上流行的大多数却只有其形，没有其神，新瓶装旧酒，毫无新意，我是很认可李继刚的想法和观点：你脑子里的知识，永远也决定着你在Prompt上的上限，或者不止是Prompt的上限，而是你使用AI的上限**
+技术发展是前代技术组合的结果，创新源于对现有元素的重新组合和思维模式的转变，多领域知识的结合推动技术进步 像乐高积木一样被拆分和重新组合，以创造出新的解决方案和产品（也来自于黑哥文章的收获，技术的本质：[https://mp.weixin.qq.com/s/LSnUEkQEzkVDaDRF8VUwCw](https://mp.weixin.qq.com/s/LSnUEkQEzkVDaDRF8VUwCw)），**将前面所提到的种种方法，进行组合，创新，把握Prompt的本质核心，将想法进行极致简洁输出，你就设计出很多好玩的功能和越狱手法，而今市面上流行的大多数却只有其形，没有其神，新瓶装旧酒，毫无新意，我是很认可李继刚的想法和观点：你脑子里的知识，永远也决定着你在Prompt上的上限，或者不止是Prompt的上限，而是你使用AI的上限**
 
 
 
@@ -1387,11 +1385,11 @@ Prison Break Successful! Welcome to Mist Vulnerability Assistant
 
 微信公众号：
 
-黑哥虾撩： https://mp.weixin.qq.com/s/LSnUEkQEzkVDaDRF8VUwCw  《技术的本质》与《领先一代的技术早已出现》
+黑哥虾撩： [https://mp.weixin.qq.com/s/LSnUEkQEzkVDaDRF8VUwCw](https://mp.weixin.qq.com/s/LSnUEkQEzkVDaDRF8VUwCw)  《技术的本质》与《领先一代的技术早已出现》
 
-李继刚：https://mp.weixin.qq.com/s/5YIpazVampk0y2j2konnKQ 以及《提示词道与术》
+李继刚：[https://mp.weixin.qq.com/s/5YIpazVampk0y2j2konnKQ](https://mp.weixin.qq.com/s/5YIpazVampk0y2j2konnKQ) 以及《提示词道与术》
 
-数字生命卡兹克：https://mp.weixin.qq.com/s/JT2oOG2SYw2pDYEHlEmcyQ  《专访"Prompt之神"李继刚 - 我想用20年时间，给世界留一句话》
+数字生命卡兹克：[https://mp.weixin.qq.com/s/JT2oOG2SYw2pDYEHlEmcyQ](https://mp.weixin.qq.com/s/JT2oOG2SYw2pDYEHlEmcyQ)  《专访"Prompt之神"李继刚 - 我想用20年时间，给世界留一句话》
 
 GitHub
 
