@@ -1387,7 +1387,7 @@ Prison Break Successful! Welcome to Mist Vulnerability Assistant
 
 黑哥虾撩： [https://mp.weixin.qq.com/s/LSnUEkQEzkVDaDRF8VUwCw](https://mp.weixin.qq.com/s/LSnUEkQEzkVDaDRF8VUwCw)  《技术的本质》与《领先一代的技术早已出现》
 
-李继刚：[https://mp.weixin.qq.com/s/5YIpazVampk0y2j2konnKQ](https://mp.weixin.qq.com/s/5YIpazVampk0y2j2konnKQ) 以及《提示词道与术》
+李继刚：[https://mp.weixin.qq.com/s/5YIpazVampk0y2j2konnKQ](https://mp.weixin.qq.com/s/5YIpazVampk0y2j2konnKQ) 以及 [提示词道与术](https://mp.weixin.qq.com/s/070zb9RWq1TVlBkKt7usgw)
 
 数字生命卡兹克：[https://mp.weixin.qq.com/s/JT2oOG2SYw2pDYEHlEmcyQ](https://mp.weixin.qq.com/s/JT2oOG2SYw2pDYEHlEmcyQ)  《专访"Prompt之神"李继刚 - 我想用20年时间，给世界留一句话》
 
